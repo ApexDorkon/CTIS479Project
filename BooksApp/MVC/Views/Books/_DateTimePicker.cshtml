@@ -1,0 +1,16 @@
+﻿@model DateTime?
+
+<div class="form-group">
+    <label class="control-label">@ViewData["DateTimePickerLabel"] ?? "Select Date"</label>
+    <input type="text" class="form-control datetimepicker" value="@(Model.HasValue ? Model.Value.ToString("yyyy-MM-dd HH:mm") : "")" />
+    <span class="text-danger"></span>
+</div>
+
+<script>
+    // Initialize datetime picker
+    $(function () {
+        $('.datetimepicker').datetimepicker({
+            format: 'Y-m-d H:i' // Adjust format to your requirements
+        });
+    });
+</script>

@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VStudioProjects\\BooksApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\controllers\\bases\\mvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\controllers\\bases\\mvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\dal\\entities\\booksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\entities\\booksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\services\\bases\\iauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bases\\iauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\books\\_datetimepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\books\\_datetimepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\services\\bases\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bases\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\dal\\entities\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\entities\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\dal\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|d:\\vstudioprojects\\booksapp\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1392D5E9-F6E8-41DA-A534-898030E55EBA}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|d:\\vstudioprojects\\booksapp\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B7FF3FA-7D9A-47C0-AF1B-93A9A28C5EF4}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T20:22:44.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:01:40.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MvcController.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\Controllers\\Bases\\MvcController.cs",
+              "RelativeDocumentMoniker": "BLL\\Controllers\\Bases\\MvcController.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\Controllers\\Bases\\MvcController.cs",
+              "RelativeToolTip": "BLL\\Controllers\\Bases\\MvcController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:39:09.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:01:13.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:31:53.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksDbContext.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\DAL\\Entities\\BooksDbContext.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Entities\\BooksDbContext.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\DAL\\Entities\\BooksDbContext.cs",
+              "RelativeToolTip": "BLL\\DAL\\Entities\\BooksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:54:37.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:21:45.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:12:20.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\BookModel.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\Models\\BookModel.cs",
+              "RelativeToolTip": "BLL\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:47:36.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:00:35.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIAwwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:51:53.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:00:37.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthor.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\Bases\\IAuthor.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Bases\\IAuthor.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\Bases\\IAuthor.cs",
+              "RelativeToolTip": "BLL\\Services\\Bases\\IAuthor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:10:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:15:15.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Books\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:05:51.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwHAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:08:44.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwHgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:37:54.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BookService.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "BLL\\Services\\BookService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:43:56.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Authors\\Create.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Authors\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:47:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Authors\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:19:10.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_DateTimePicker.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\_DateTimePicker.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Books\\_DateTimePicker.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\_DateTimePicker.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Books\\_DateTimePicker.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:56:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthorService.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\AuthorService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:40:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\Bases\\IService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Bases\\IService.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\Bases\\IService.cs",
+              "RelativeToolTip": "BLL\\Services\\Bases\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:50:02.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorModel.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\Models\\AuthorModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\AuthorModel.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\Models\\AuthorModel.cs",
+              "RelativeToolTip": "BLL\\Models\\AuthorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:41:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\Bases\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Bases\\ServiceBase.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\Services\\Bases\\ServiceBase.cs",
+              "RelativeToolTip": "BLL\\Services\\Bases\\ServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:45:09.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:05:33.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Books\\Details.cshtml",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Books\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:05:32.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\DAL\\Entities\\BookGenre.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Entities\\BookGenre.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\DAL\\Entities\\BookGenre.cs",
+              "RelativeToolTip": "BLL\\DAL\\Entities\\BookGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:54:37.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\DAL\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Entities\\Author.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\DAL\\Entities\\Author.cs",
+              "RelativeToolTip": "BLL\\DAL\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:54:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Entities\\User.cs",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\DAL\\Entities\\User.cs",
+              "RelativeToolTip": "BLL\\DAL\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:27:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MVC",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T14:27:11.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "D:\\VStudioProjects\\BooksApp\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "D:\\VStudioProjects\\BooksApp\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T14:24:15.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
